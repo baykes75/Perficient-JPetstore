@@ -11,4 +11,3 @@ node {
 		archive 'target/*.jar'
 		}
 	}
-	
